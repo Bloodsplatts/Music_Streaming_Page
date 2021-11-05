@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    background-image:url("/home/bloodsplatts/Dev/Bloodsplatts/Images/Chtulhu_Banner.png");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 1200px 280px;
+}
+
+.audio-container {
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    height: 5px;
+    font-size: 12px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2Opx;
+    justify-content: left;
+}  
+
+h3 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2Opx;
+    margin-left: 95%;
+    justify-content: right;
+}
+
